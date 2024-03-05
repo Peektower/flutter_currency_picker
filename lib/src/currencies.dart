@@ -1,6 +1,34 @@
 //Order by Most traded currencies: https://en.wikipedia.org/wiki/Template:Most_traded_currencies
 List<Map<String, dynamic>> currencies = [
   {
+    "code": "SLL",
+    "name": "Sierra Leone Leone",
+    "symbol": "Le",
+    "flag": "SLL",
+    "decimal_digits": 2,
+    "number": 694,
+    "name_plural": "Sierra Leone Leones",
+    "thousands_separator": ",",
+    "decimal_separator": ".",
+    "space_between_amount_and_symbol": false,
+    "symbol_on_left": true
+},
+  {
+    "code": "GNF",
+    "name": "Guinean Franc",
+    "symbol": "FG",
+    "flag": "GNF",
+    "decimal_digits": 2,
+    "number": 324,
+    "name_plural": "Guinean Francs",
+    "thousands_separator": ",",
+    "decimal_separator": ".",
+    "space_between_amount_and_symbol": false,
+    "symbol_on_left": true
+},
+
+
+  {
     "code": "USD",
     "name": "United States Dollar",
     "symbol": "\$",
